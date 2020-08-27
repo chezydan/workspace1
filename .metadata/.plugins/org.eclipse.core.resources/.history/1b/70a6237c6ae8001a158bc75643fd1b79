@@ -1,0 +1,23 @@
+
+package q06;
+
+public class Q06 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		
+		int  [] [] mat = { {1,2,3},
+				          { 4,5,6}  };	
+		
+	}
+
+	
+‪ public‬‬ ‫‪static‬‬ ‫‪int‬‬ ‫‪frame‬‬ ‫(int‬ ‪[][]mat){
+		return 1;
+		
+	}
+	‬‬
+	
+
+}

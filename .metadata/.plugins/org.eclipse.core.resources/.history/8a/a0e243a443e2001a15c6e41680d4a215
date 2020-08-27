@@ -1,0 +1,40 @@
+package ar2dd;
+
+public class TwoD {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+	System.out.println("aaaaaa");	
+	
+	int [][] ar2d =  {{1,2,3}, {4,5,6},{7,8,9 }}   ;
+
+	
+	//test 2D
+	System.out.println(ar2d[1      ][0]);
+	System.out.println(isEven(ar2d,1,1));}
+	
+	
+	
+ public static Boolean isEven ( int [][] ar, int ii, int jj	 ) 
+ {
+	 
+	Boolean	 isEven =true;
+	
+	for (int i =ii ;  i< ar.length; i++) {
+		for (int j =jj; j< ar[0].length; j++)
+		{
+		System.out.println(ar[i][j]);
+		}
+	}
+	
+	return isEven;
+	
+			
+	
+	
+ }
+	
+	
+
+	}
+

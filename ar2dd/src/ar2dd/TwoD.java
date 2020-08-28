@@ -22,10 +22,6 @@ public class TwoD {
 	System.out.println(isEven(B,1,1));
 	
 	
-	String s ="pupi";
-	String k="k";
-	s = s+k;
-	System.out.println(s);
 	}
 	
 	
